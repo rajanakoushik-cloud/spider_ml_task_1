@@ -8,7 +8,7 @@ load_dotenv()
 
 token = "tokens"
 if not token:
-    st.error("Missing Hugging Face Token! Make sure your .env file contains tokens=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")
+    st.error("Missing Hugging Face Token! Make sure your .env file contains tokens=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")
     st.stop()
 
 st.title("AI Assistant CHITTI")
